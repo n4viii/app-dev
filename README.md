@@ -3,7 +3,7 @@ My first repository
 
 # 🎬 The Wolf of Wall Street
 
-![The Wolf of Wall Street Poster](https://upload.wikimedia.org/wikipedia/en/1/1f/WallStreet2013poster.jpg)
+![The Wolf of Wall Street Poster](https://www.netflix.com/title/70266676)
 
 ---
 
