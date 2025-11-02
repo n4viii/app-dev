@@ -3,7 +3,7 @@ My first repository
 
 # 🎬 The Wolf of Wall Street
 
-![The Wolf of Wall Street Poster](https://www.netflix.com/title/70266676)
+![The Wolf of Wall Street Poster](https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRm_grCmrs5GueqFGSMceTnpqYvEaYo_OTY--EPoQFS41iKkfV1YezN5Bl07n5QaHpUrzNXDalOL4CwumMueGyVA-CpoVje2Y53L.jpg?r=dc1)
 
 ---
 
