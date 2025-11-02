@@ -1,25 +1,58 @@
 # app-dev
 My first repository
 
-# The Wolf of Wall Street
+# 🎬 The Wolf of Wall Street
 
-**Genre:** Biography, Comedy, Crime  
+![The Wolf of Wall Street Poster](https://upload.wikimedia.org/wikipedia/en/1/1f/WallStreet2013poster.jpg)
+
+---
+
+## 📖 About the Movie
+**Title:** *The Wolf of Wall Street*  
 **Director:** Martin Scorsese  
-**Starring:** Leonardo DiCaprio, Jonah Hill, Margot Robbie  
+**Main Actor:** **Leonardo DiCaprio**  
+**Genre:** Biography / Comedy / Crime  
 
 ---
 
-## Summary
-*The Wolf of Wall Street* is based on the true story of **Jordan Belfort**, a stockbroker who rises to wealth and fame through corruption and fraud.  
-The movie shows his wild lifestyle, greed, and the downfall that follows his illegal success.  
+### 🐺 Summary
+> “There’s no nobility in poverty.” – Jordan Belfort  
+
+*The Wolf of Wall Street* tells the story of **Jordan Belfort**, a stockbroker who becomes very rich by cheating investors.  
+He lives a wild life full of money, parties, and problems. In the end, his actions catch up with him.
 
 ---
 
-### Why I Like It
-- The story is fast-paced and exciting.  
-- Leonardo DiCaprio’s performance is brilliant.  
-- It gives a glimpse into the crazy world of stock trading.  
+### 💬 Why I Like It
+- 😄 The story is fast and fun to watch  
+- 🎭 Great acting from Leonardo DiCaprio  
+- 💰 Teaches a lesson about greed and choices  
 
 ---
 
-> “There’s no nobility in poverty.” – Jordan Belfort
+### 🔢 Ratings (Example)
+| Category | My Rating (⭐ out of 5) |
+|-----------|------------------------|
+| Story     | ⭐⭐⭐⭐ |
+| Acting    | ⭐⭐⭐⭐⭐ |
+| Visuals   | ⭐⭐⭐⭐ |
+| Message   | ⭐⭐⭐⭐ |
+
+---
+
+### ✅ Fun Facts
+1. Based on a true story.
+2. The real Jordan Belfort appears in the last scene.
+3. Directed by *Martin Scorsese*, one of the best filmmakers ever.
+
+---
+
+### 🧠 My Thoughts
+This movie shows how **greed**, **money**, and **power** can change a person’s life.  
+It also shows that success without honesty will not last long.
+
+---
+
+### 🔗 Useful Links
+- [IMDb Page](https://www.imdb.com/title/tt0993846/)  
+- [Official Trailer on YouTube](https://www.youtube.com/watch?v=iszwuX1AK6A)
